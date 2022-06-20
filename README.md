@@ -1,5 +1,5 @@
 # teampicker3
-Pickers a fair football team given a csv file of players and their abilities
+Picker a fair football team given the input of a csv file listing players and their abilities
 
 ## Running
 1. replace the dummy players in the file playerratings.csv with your real examples
